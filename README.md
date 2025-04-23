@@ -1,2 +1,2 @@
 # Class_Activity_DS11
-Class activity of fifteen python code challenges
+Class activity of fifteen python code challenges by atomcamp
